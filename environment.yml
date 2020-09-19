@@ -1,0 +1,11 @@
+name: curso_ing_datos
+dependencies:
+  - beautifulsoup4
+  - requests
+  - numpy
+  - pandas
+  - matplotlib
+  - yaml
+  - jupyter
+  - rise  # para posibilidad de crear interactive slides
+  - pyyaml
